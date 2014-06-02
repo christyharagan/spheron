@@ -1,14 +1,15 @@
 {
-  "name": "hybridgroup-spheron",
+  "name": "cjh-spheron",
   "version": "0.1.0",
   "description": "Use your javascript powers to control the Sphero by Orbotix",
   "main": "lib/index.js",
   "homepage": "http://cylonjs.com",
-  "bugs": "https://github.com/hybridgroup/spheron/issues",
+  "bugs": "https://github.com/christyharagan/spheron/issues",
   "author": "Michael McHugh <developer@yrucalling.me>",
   "contributors": [
     "Michael McHugh <developer@yrucalling.me>",
-    "Edgar Silva <https://github.com/edgarsilva>"
+    "Edgar Silva <https://github.com/edgarsilva>",
+    "Christy Haragan <https://github.com/christyharagan>"
   ],
   "dependencies": {
     "serialport": "1.4.x"
@@ -36,7 +37,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hybridgroup/spheron.git"
+    "url": "git://github.com/christyharagan/spheron.git"
   },
   "license": "Simplified BSD License"
 }
